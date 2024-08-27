@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unityproject\\3D_Ball\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C94CC2-1477-5267-44D2-4133D4CCB1F0}|Assembly-CSharp.csproj|d:\\unityproject\\3d_ball\\assets\\scripts\\player_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C94CC2-1477-5267-44D2-4133D4CCB1F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C94CC2-1477-5267-44D2-4133D4CCB1F0}|Assembly-CSharp.csproj|D:\\Unityproject\\3D_Ball\\assets\\scripts\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C94CC2-1477-5267-44D2-4133D4CCB1F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C94CC2-1477-5267-44D2-4133D4CCB1F0}|Assembly-CSharp.csproj|D:\\Unityproject\\3D_Ball\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C94CC2-1477-5267-44D2-4133D4CCB1F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pickup.cs",
+              "DocumentMoniker": "D:\\Unityproject\\3D_Ball\\Assets\\Scripts\\Pickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pickup.cs",
+              "ToolTip": "D:\\Unityproject\\3D_Ball\\Assets\\Scripts\\Pickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pickup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:41:23.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\Unityproject\\3D_Ball\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "D:\\Unityproject\\3D_Ball\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:18:00.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player_Controller.cs",
+              "DocumentMoniker": "D:\\Unityproject\\3D_Ball\\Assets\\Scripts\\Player_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player_Controller.cs",
+              "ToolTip": "D:\\Unityproject\\3D_Ball\\Assets\\Scripts\\Player_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player_Controller.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowEYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:50:15.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
